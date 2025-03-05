@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Thoburn</h1>
+<h1 align="center">Hello, I'm James Thoburn</h1>
 <h3 align="center">An aspiring frontend developer from the North East of England</h3>
 
 <h3 align="left">Connect with me:</h3>
